@@ -757,7 +757,7 @@
     "antiremove.views.menu.list_user_entry": "{user_mention} (ID: `{uid}`)",
     "antiremove.views.menu.list_user_not_found": "ID: `{uid}` (не найден)",
     "antiremove.views.menu.rules_title": "Важное правило работы",
-    "antiremove.views.menu.rules_desc": "• Если кто-то попытается снять или выдать роли защищённому участнику, бот автоматически восстановит их и накажет нарушителя.\n• Защита не распространяется на действия владельца сервера.",
+    "antiremove.views.menu.rules_desc": "Если кто-то попытается снять или выдать роли защищённому участнику, бот автоматически восстановит их и накажет нарушителя.\nЗащита не распространяется на действия владельца сервера.",
     "antiremove.views.menu.limits_title": "Лимиты модуля",
     "antiremove.views.menu.limits_desc": "Использовано мест: `{count}` из `{max_count}`",
     "antiremove.views.menu.protected_users_title": "Защищённые участники",

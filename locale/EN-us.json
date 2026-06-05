@@ -757,7 +757,7 @@
     "antiremove.views.menu.list_user_entry": "{user_mention} (ID: `{uid}`)",
     "antiremove.views.menu.list_user_not_found": "ID: `{uid}` (not found)",
     "antiremove.views.menu.rules_title": "Important rule of operation",
-    "antiremove.views.menu.rules_desc": "• If someone tries to remove or assign roles to a protected member, the bot will automatically restore them and punish the offender.\n• Protection does not apply to actions of the server owner.",
+    "antiremove.views.menu.rules_desc": "If someone tries to remove or assign roles to a protected member, the bot will automatically restore them and punish the offender.\nProtection does not apply to actions of the server owner.",
     "antiremove.views.menu.limits_title": "Module Limits",
     "antiremove.views.menu.limits_desc": "Seats used: `{count}` out of `{max_count}`",
     "antiremove.views.menu.protected_users_title": "Protected Members",
