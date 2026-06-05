@@ -1,0 +1,18 @@
+{
+    "languages": [
+        {
+            "code": "RU-ru",
+            "aliases": ["ru", "ru-RU", "RU-ru"],
+            "label": "Русский",
+            "flag": "🇷🇺",
+            "description": "Установить русский язык для бота"
+        },
+        {
+            "code": "EN-us",
+            "aliases": ["en", "en-US", "EN-us"],
+            "label": "English",
+            "flag": "🇺🇸",
+            "description": "Set English language for the bot"
+        }
+    ]
+}
