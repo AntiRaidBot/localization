@@ -387,7 +387,7 @@
     "general.bot_verify.dashboard_status_enabled": "   └— **Enabled** (Unverified bots will be kicked automatically)",
     "general.bot_verify.dashboard_status_disabled": "   └— **Disabled** (Any bots can join without checks)",
     "general.bot_verify.dashboard_header": "New bot verification\nManage new bot verification checks when joining **{guild_name}**.",
-    "general.bot_verify.dashboard_description": "**Module description**\n- The module protects your server from crash bots and automated spam accounts.\n- When enabled, all newly added bots that have not passed official Discord verification will be removed immediately.\n- Verified bots and bots from trusted developers can join freely.\n- [What is bot verification? (Discord article)](https://support-dev.discord.com/hc/en-us/articles/23926564536471-How-Do-I-Get-My-App-Verified)",
+    "general.bot_verify.dashboard_description": "**Module description**\nThe module protects your server from crash bots and automated spam accounts.\nWhen enabled, all newly added bots that have not passed official Discord verification will be removed immediately.\nVerified bots and bots from trusted developers can join freely.\n[What is bot verification? (Discord article)](https://support-dev.discord.com/hc/en-us/articles/23926564536471-How-Do-I-Get-My-App-Verified)",
     "general.bot_verify.dashboard_current_status": "**Current status:**\n{status}",
     "general.bot_verify.menu_access_denied": "Access error\nYou cannot interact with this menu.",
     "general.bot_verify.dashboard_missing_permissions": "Missing bot permissions\nThe bot cannot enable the check because it lacks these permissions:\n{permissions}",
